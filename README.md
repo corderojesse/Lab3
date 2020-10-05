@@ -98,7 +98,7 @@ public class artistList {
 			System.out.println("");
 		
 
-	}
+		}
 		
 		if (a.equals("d")) 
 		{
@@ -120,7 +120,7 @@ public class artistList {
 			System.out.println("");
 		
 
-	}
+		}
 		if (a.equals("f"))
 		{
 			
